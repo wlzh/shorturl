@@ -2,11 +2,11 @@
 
 一个使用 Cloudflare Pages 创建的 URL 缩短器
 
-*演示站点* : [t.xiaowangye.org](https://t.xiaowangye.org), [linklet.pages.dev](https://linklet.pages.dev)
+*演示站点* : [url.86911638.free.hr](https://url.86911638.free.hr), [shorturl-295.pages.dev](https://shorturl-295.pages.dev)
 
 ### 1.利用 Cloudflare Pages 部署
 
-1. Fork [linklet 仓库](https://github.com/HarrisonWang/linklet.git)。
+1. Fork [linklet 仓库](https://github.com/wlzh/shorturl.git)。
 2. 登录到 [Cloudflare](https://dash.cloudflare.com) 控制台。
 3. 在 Cloudflare 控制台，选择 <kbd>Workers & Pages</kbd> > <kbd>Create application</kbd> > <kbd>Pages</kbd> > <kbd>Connect to Git</kbd>。
 4. 选择 Fork 的仓库，若没有该仓库，请点击 [Cloudflare Pages 链接](https://github.com/settings/installations/46795069)配置 Cloudflare 访问个人的 GitHub 仓库权限。
